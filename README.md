@@ -1,0 +1,1 @@
+# ShimokitaCollege.github.io
