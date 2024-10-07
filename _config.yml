@@ -1,1 +1,7 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimali
+
+# theme: jekyll-theme-cayman
+
+title: "タイトル：テスト"
+description: "カレッジ住人たちの遊び場"
+# logo: img/img.png
