@@ -5,3 +5,6 @@ theme: jekyll-theme-minimal
 title: "タイトル：テスト"
 description: "カレッジ住人たちの遊び場"
 # logo: img/img.png
+
+plugins:
+  - jekyll-sitemap
