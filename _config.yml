@@ -2,8 +2,8 @@ theme: jekyll-theme-minimal
 
 # theme: jekyll-theme-cayman
 
-title: "タイトル：テスト"
-description: "カレッジ住人たちの遊び場"
+title: "college.wiki"
+description: "下北カレッジ住人のための非公式wiki。
 # logo: img/img.png
 
 plugins:
